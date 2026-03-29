@@ -1,0 +1,11 @@
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+*.o
+*.exe
+*.data
+perf.data
+__pycache__/
